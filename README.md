@@ -1,7 +1,15 @@
 # cyanogenmodqemu
 CyanogenMod running on Qemu
 
-you erotic cricket
+you eagler
+
+UWU!
+
+this is coconutstatus aka wisp.
+
+purrs in protogen
+
+ok bye
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
